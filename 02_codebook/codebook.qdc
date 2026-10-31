@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeBook xmlns="urn:QDA-XML:codebook:1.0" origin="Timothy Pittaway">
+  <Codes>
+    <Code guid="39f7e8b7-2a9d-43c3-9d03-e699c8b490eb" name="Push factors" isCodable="false">
+      <Code guid="922d773c-ddd8-483d-8108-464a6a88c99a" name="Falling farm income" isCodable="true">
+        <Description>Farm income no longer covers household needs. Use when: participant links new activity to money pressure.</Description>
+      </Code>
+      <Code guid="e580e007-533a-4303-8f2c-f552ccb83aef" name="Succession pressure" isCodable="true">
+        <Description>Need to create a role for the next generation. Use when: participant mentions children joining the business.</Description>
+      </Code>
+    </Code>
+    <Code guid="20a3a8f0-836f-4e5a-b7aa-c96770673a97" name="Pull factors" isCodable="false">
+      <Code guid="fccc3da4-53be-479c-a91e-5a940fb30030" name="Tourism demand" isCodable="true">
+        <Description>Visitors in the area create a market. Use when: participant describes customers or visitors as the reason.</Description>
+      </Code>
+      <Code guid="9fc6984d-5fcd-4633-9eff-2777c9a91362" name="Grant support" isCodable="true">
+        <Description>Public funding makes the activity possible. Use when: participant names a grant or scheme.</Description>
+      </Code>
+    </Code>
+    <Code guid="eb83c19e-e582-4b16-8d58-4cbb02a827a0" name="Barriers" isCodable="false">
+      <Code guid="108687ae-88c4-44a8-860c-453feff5bc05" name="Planning permission" isCodable="true">
+        <Description>Delays or refusal from planning authorities. Use when: participant describes planning as a hurdle.</Description>
+      </Code>
+      <Code guid="ea718beb-652d-4294-8fdd-1dade8710164" name="Skills gap" isCodable="true">
+        <Description>Lacks skills needed for the new activity. Use when: participant says they had to learn new skills.</Description>
+      </Code>
+    </Code>
+    <Code guid="682e923d-ec7f-42db-ac5b-f282cb6bc852" name="Outcomes" isCodable="false">
+      <Code guid="93a3d49e-63fd-4bd3-a353-b438a052090e" name="Income stability" isCodable="true">
+        <Description>New activity smooths income across the year. Use when: participant describes steadier cash flow.</Description>
+      </Code>
+      <Code guid="f39ff84f-d3b0-44ca-9cb2-1c2659043313" name="Workload strain" isCodable="true">
+        <Description>New activity adds pressure on time. Use when: participant describes stress or long hours.</Description>
+      </Code>
+    </Code>
+  </Codes>
+</CodeBook>
